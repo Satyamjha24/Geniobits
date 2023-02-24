@@ -1,5 +1,7 @@
 # Recipe App
 This is a react app in which we can search new Recipe. Login and Sign Up functionality are available.For Data Management I used Redux and for Login and signup I used Reqres, and at the end I deployed it in netlify.
+# Deployed Link
+https://astounding-travesseiro-e2819f.netlify.app/
 # Tech Stack Used
 1-React
 2-Redux
