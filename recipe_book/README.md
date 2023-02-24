@@ -1,3 +1,20 @@
+# Recipe App
+This is a react app in which we can search new Recipe. Login and Sign Up functionality are available.For Data Management I used Redux and for Login and signup I used Reqres, and at the end I deployed it in netlify.
+# Tech Stack Used
+1-React
+2-Redux
+3-React-Redux
+3-React-Router-Dom
+4-JavaScript
+5-CSS
+
+# Screenshots
+![Screenshot (551)](https://user-images.githubusercontent.com/107462251/221121242-98989ad9-6fcf-4cbe-87c9-2be2e4965e5a.png)
+
+![Screenshot (552)](https://user-images.githubusercontent.com/107462251/221121662-7fa1595b-e173-456d-aec5-960a73ced7a2.png)
+
+![Screenshot (553)](https://user-images.githubusercontent.com/107462251/221121687-00c9a559-1a75-44a5-bce6-7db3416d2500.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
